@@ -1,1 +1,1 @@
-# CPT304 Assignment 2
+# Hotel Location Finder 
